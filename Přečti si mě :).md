@@ -8,4 +8,6 @@ napajení bude 5Vdc které nejspíše budu brát z usb A
 moc se omlouvám že je možná vetsina projektu nesrozumitelná popřípadě chotická už i dosavadní výroba byla dosti chaotická nechaval jsem se unést a stavel jsem dříve než byly plánky
 a tak jsou plánky trosku chaotické ale udělal jsem je vetší a také jsou rozložené jednotlivé větve rozdelené na více papíru alu všech je napsáno do jakého pinu přijdou Prototypy byly 
 navrhované ve fyzycké formě na bread bordu (nepajivém poli)
+plánky jsou do finální verze v plánu předělat
 ohledně cílu projektu (citováno ze zadání) tak muj cíl je udělat dekorativní kus elektrického zařízení nejen na vánoce:)
+A omlouvám se jestli to není v githubu zpracováno tak ja by melo jsem v githubu nový ale přislo mi udělat popis verzí do tohototextového souboru mimo verzi 
