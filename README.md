@@ -51,4 +51,4 @@ Tato verze je NF jako: nefunkční nebo not finished. V teto verzi je hotovo asi
 ### V0.2
 Napájení katod a průběžné řešení izolace u jedné z elektrod diody a příprava pripájení Rasbery pi pico a spojování jednotlivých větví více ve videu 
 
-![VID 20250105 163622173](VID_20250105_163622173.mp4)
+[Video V0.2](https://drive.google.com/file/d/1NQ10m_3WI_LUUCVfmrpTRvGcRcWG3vj5/view?usp=sharing)
